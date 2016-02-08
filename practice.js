@@ -205,7 +205,7 @@ user2.email = 'tyler.mcginnis@devmounta.in'
 
 //Now call the sayName method that's on the user object which will alert the users email
 
-// user2.sayName();
+user2.sayName();
 
 
 
